@@ -1,0 +1,29 @@
+*{
+    padding:0;
+    margin:0;
+    font-size:1.2rem;
+    font-family: 'Karma', serif;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+.center{
+    text-align:center;
+}
+.head{
+    font-weight:600;
+    letter-spacing: 1px;
+}
+.reset{
+    clear:both;
+}
+.content{
+    text-align: center;
+    font-size: 0.83rem;
+    padding-top: 20px;
+}
+.equal{
+    padding-right: 30px;
+    box-sizing: border-box;
+}
